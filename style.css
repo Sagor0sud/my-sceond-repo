@@ -1,0 +1,17 @@
+h1{
+    color: fuchsia;
+    height: 40px;
+    width: auto;
+    margin: auto;
+}
+h2{
+    color: gold;
+    height: 200px;
+    width: auto;
+    margin: auto;
+}
+p{
+    color: blueviolet;
+    margin: auto;
+    padding: auto;
+}
